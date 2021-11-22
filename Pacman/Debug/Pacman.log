@@ -1,0 +1,45 @@
+﻿  Avatar.cpp
+D:\Dev\Pacman\Pacman\Avatar.cpp(21,59): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+D:\Dev\Pacman\Pacman\Avatar.cpp(21,35): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  BigDot.cpp
+  ChaseBehaviour.cpp
+D:\Dev\Pacman\Pacman\ChaseBehaviour.cpp(100,56): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+D:\Dev\Pacman\Pacman\ChaseBehaviour.cpp(100,38): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+D:\Dev\Pacman\Pacman\ChaseBehaviour.cpp(105,64): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+D:\Dev\Pacman\Pacman\ChaseBehaviour.cpp(105,42): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+D:\Dev\Pacman\Pacman\ChaseBehaviour.cpp(106,64): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+D:\Dev\Pacman\Pacman\ChaseBehaviour.cpp(106,42): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  ChaseBehaviour.h
+  Cherry.cpp
+  Dot.cpp
+  Drawer.cpp
+  FrightenedBehaviour.cpp
+  GameEntity.cpp
+  Ghost.cpp
+D:\Dev\Pacman\Pacman\Ghost.cpp(114,23): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+D:\Dev\Pacman\Pacman\Ghost.cpp(181,60): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+D:\Dev\Pacman\Pacman\Ghost.cpp(181,36): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  main.cpp
+  MovableGameEntity.cpp
+D:\Dev\Pacman\Pacman\MovableGameEntity.cpp(30,48): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+D:\Dev\Pacman\Pacman\MovableGameEntity.cpp(31,48): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+  Pacman.cpp
+D:\Dev\Pacman\Pacman\Pacman.cpp(278,17): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+D:\Dev\Pacman\Pacman\Pacman.cpp(279,17): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+  PathmapTile.cpp
+  Sprite.cpp
+  SpriteFont.cpp
+  StaticGameEntity.cpp
+  Vector2f.cpp
+  ScatterBehaviour.cpp
+  World.cpp
+D:\Dev\Pacman\Pacman\World.cpp(76,53): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+D:\Dev\Pacman\Pacman\World.cpp(76,37): warning C4244: 'argumento': conversión de 'unsigned int' a 'float'; posible pérdida de datos
+D:\Dev\Pacman\Pacman\World.cpp(85,59): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+D:\Dev\Pacman\Pacman\World.cpp(85,43): warning C4244: 'argumento': conversión de 'unsigned int' a 'float'; posible pérdida de datos
+D:\Dev\Pacman\Pacman\World.cpp(347,57): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+D:\Dev\Pacman\Pacman\World.cpp(347,41): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  Generando código...
+D:\Dev\Pacman\Pacman\World.cpp(325): warning C4715: 'World::Pathfind': no todas las rutas de acceso de control devuelven un valor
+Debug\ChaseBehaviour.obj : warning LNK4042: objeto especificado más de una vez; omitidos los sobrantes
+  Pacman.vcxproj -> D:\Dev\Pacman\Debug\Pacman.exe
