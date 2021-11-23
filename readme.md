@@ -1,7 +1,7 @@
 
 # Pac-Man implementation in SDL for C++
 
-    This simple 2D project is a one level Pac-Man  clone made in C++ with [Simple DirecMedia Layer]
+This simple 2D project is a one level Pac-Man  clone made in C++ with [Simple DirecMedia Layer]
 An excellent exercise for getting started in gaming development to understand basic concepts, creating a characters, 
 scenarios, behaviours and interactions using sprites, geometric positioning, objects communication, artificial intelligence.
 And it also could be challenging for experienced developers writing precise and optimal algorithms, 
