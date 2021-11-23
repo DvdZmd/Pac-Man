@@ -1,11 +1,13 @@
 
 # Pac-Man implementation in SDL for C++
 
-    This simple 2D project is a one level Pac-Man  clone made in C++ with Simple DirecMedia Layer
-An excellent exercise for getting started in gaming development to understand basic concepts, creating a character's 
-scenarios and behaviours using sprites, geometric positioning, objects communication, artificial intelligence.
+    This simple 2D project is a one level Pac-Man  clone made in C++ with [Simple DirecMedia Layer]
+An excellent exercise for getting started in gaming development to understand basic concepts, creating a characters, 
+scenarios, behaviours and interactions using sprites, geometric positioning, objects communication, artificial intelligence.
 And it also could be challenging for experienced developers writing precise and optimal algorithms, 
 being careful managing pointers and references and implementing software design patters.
+
+[Simple DirecMedia Layer]: <https://www.libsdl.org/>
 
 
     This project is a wide self documented code legible and clear
@@ -47,3 +49,6 @@ scatter, each ghost got his corner to do it, by 4 seconds for start to chase aga
 
 Eat a big dot causes fear by 5 seconds, and when a ghost is frightened, remember that Pac-Man can eat them causing
 the ghost dead by 10 seconds and returning him to the ghost cave while he is dead.
+
+
+
